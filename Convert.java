@@ -1,3 +1,3 @@
-public class Converter { 
+public class Converter { Добавили класс
     
 }
